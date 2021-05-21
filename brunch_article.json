@@ -1,0 +1,920 @@
+{
+  "1": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "2": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "3": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "4": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "5": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "6": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "7": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "8": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ],
+  "9": [
+    {
+      "title": "다시 한번, 글쓰기 - <b>Hello</b>, <b>world</b>!",
+      "contentSummary": "일어 설 수 없었다. 무기력에 빠져버린 것이다. 나는 다시 한번 일어서기를 시도한다. 그 첫 걸음은 선언에 있을 것이다. 보잘 것 없는 한 획은 단어가 되고 문장이 되어 나의 세계를 버티는 기둥이 되어 줄 것이다. 오늘 부터 다시 시작이다. <b>Hello</b>...",
+      "contentId": "DyM_23"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>!",
+      "contentSummary": "기초적인 것들을 따라해 보았다. 그리고 내가 클릭질이 아니라, 컴퓨터에게 언어로 내린 첫 명령. &#39;<b>Hello</b> <b>world</b>!&#39;를 출력하시오. print(<b>Hello</b> <b>world</b>!) print라는 명령면 뒤에 뭔가를 쓰면 컴퓨터가 그 문구를 그대로 내뱉는 게 어찌나 신기했던지, 그리고...",
+      "contentId": "ap7m_63"
+    },
+    {
+      "title": "C++ <b>Hello</b> <b>World</b>",
+      "contentSummary": "띄우고 리눅스에서는 AAAA를 출력한다. 프로그래머는 프로그래밍 언어를 배우기 위해 개발 환경을 셋팅하고 가장 먼저 <b>Hello</b> <b>World</b>라는 메시지를 출력한다. 이유는 나도 모른다. 하지만 설치 및 환경 설정을 끝내고 <b>Hello</b> <b>World</b>라는 메시지를 출력했을 때...",
+      "contentId": "aE2e_6"
+    },
+    {
+      "title": "<b>Hello</b>, <b>World</b> - 인터넷의 기억",
+      "contentSummary": "인터넷이 인터넷이 아니라 &#39;PC 통신&#39;이라 불리던 시절이 있었다(엄밀하게 표현하자면 두 가지는 기술적으로 구분이 가능한 개념이지만, 대충 &#39;개인 컴퓨터에 네트워크가 연결되어서 다른 컴퓨터로부터 저장된 정보를 볼 수 있다&#39;라는 점에서 이렇게 말해...",
+      "contentId": "9PC2_16"
+    },
+    {
+      "title": "플러터 <b>Hello</b> <b>World</b> 살펴보기",
+      "contentSummary": "플러터 <b>Hello</b> <b>World</b> 살펴보기 다트 언어를 살펴보느라 플러터 개발 환경 구축 및 Hot reload를 다루고 한참이 지나서야 다시 플러터로 돌아왔다. 처음부터 식상하지만 <b>hello</b> <b>world</b> 앱을 플러터를 사용하여 간단히 구현해본다. 그리고 간단하지만 새롭게...",
+      "contentId": "2Kn8_137"
+    },
+    {
+      "title": "딥러닝의 <b>Hello</b> <b>World</b>, MNIST 데이터셋 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "머신러닝의 <b>Hello</b> <b>World</b>가 iris 데이터셋이라면 딥러닝에서는 MNIST(Modified National Institute of Standards and Technology Database)입니다. MNIST는 손으로 쓴 숫자로 이루어진 대형 데이터베이스입니다. 1989년 얀 레쿤 CNN 논문 발표 1995년 NIST...",
+      "contentId": "1wbE_96"
+    },
+    {
+      "title": "BOF 배낭여행(1) - 어셈블리어로 <b>hello</b> <b>world</b>! 그리고 쉘코드",
+      "contentSummary": "지 아는 것이 중요하다고 생각해요. 그래야 그 당시 사람들의 고민과 현재의 고민을 연결지어 생각해 볼 수 있죠. 이 문서는 <b>hello</b> <b>world</b>!를 출력하는 어셈블리어에 대한 이야기합니다. 이를 응용하면 쉘코드를 만들 수 있습니다. 쉘코드는 BOF로 프로그램...",
+      "contentId": "1jVI_10"
+    },
+    {
+      "title": "6장 LCD 사용하기 - <b>hello</b>, <b>world</b>!",
+      "contentSummary": "불러와 보자. 참고로 프로그래밍 언어를 배울 때 보통 처음에 만들어 보는 예제가 바로 HelloWorld라는 예제이다. 화면에 <b>Hello</b> <b>World</b>라는 글자를 출력해 보는 코드이다. 상단의 주석 코드를 제외하고 한글 주석으로 풀이해 보면 다음과 같다. #include...",
+      "contentId": "2Bt_9"
+    },
+    {
+      "title": "에필로그 : <b>Hello</b> 문돌이 <b>world</b>! - 부제 : 플랜 B 없이 대기업 퇴사한 문돌이",
+      "contentSummary": "된 롤러코스터를 탈 때도 이 정도로 심장이 뛰지는 않았다(놀이기구를 잘 못 타는 편이다) 처음 국비지원 학원에서 <b>Hello</b> <b>World</b>!라는 문구를 출력했던 순간이 떠올랐다. 퇴사를 했던 그 순간보다 먼저 출력창이 떠오른 걸 보니 개발자로서의 시작이 좋을...",
+      "contentId": "ZJX_89"
+    },
+    {
+      "title": "빠르게 배우는 Node.js-01 <b>Hello</b> <b>World</b> - 빠르게 배우는 Node.js 시리즈 소개 및 Node.js의 시작",
+      "contentSummary": "자바스크립트를 개발하는 것이 어떻게 다른지를 살펴보겠습니다. 그다음으로는 모든 언어를 시작할 때처럼 “<b>Hello</b> <b>World</b>”을 출력하는 어플리케이션을 구현합니다. 그 후 우리가 만들려고 하는 실제 어플리케이션에 대해 얘기해보고 이 어플리케이션을...",
+      "contentId": "naw_35"
+    },
+    {
+      "title": "두 번째 Commit - <b>Hello</b>, <b>World</b>",
+      "contentSummary": "교수님의 이론 수업이 있었고, 나머지 1시간 반의 실습시간으로 진행이 되었다. 처음으로 수업시간에 작성한 프로그램은 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열을 콘솔에 출력하는 프로그램이었다. 그 당시의 기억을 회상해보면 처음 &#39;<b>Hello</b>, <b>World</b>&#39;라는 문자열이...",
+      "contentId": "2CHR_4"
+    },
+    {
+      "title": "데이터분석의 <b>Hello</b> <b>World</b>, IRIS 데이터 - [야만인] 인공지능 탄생의 뒷이야기",
+      "contentSummary": "모든 프로그램을 배울 때 우리는 print 함수로 &#34;<b>Hello</b> <b>World</b>&#34;를 찍는 것으로 시작합니다. 이것은 그 유명한 브라이언 커니핸 Brian Wilson Kernighan 과 데니스 리치 Dennis Ritchie 의 &lt;THE C PROGRAMMING&gt; 책의 첫장에서 유래합니다. 여러분이 데이터...",
+      "contentId": "1wbE_82"
+    },
+    {
+      "title": "나는 Python이 불편하다. - <b>Hello</b> <b>world</b>",
+      "contentSummary": "최근 데이터 사이언스를 전공하면서 Python이나 R과 같은 최근 &#39;Hot&#39;한 언어들을 함께 사용한다. 하지만 조금 더 예전에 프로그래밍을 배웠던 사람으로서 새로운 기술이 낯설고 불편하다. 최근 많은 프로그래밍 입문자들 사이에서 Python의 강점은 &#39;쉽다...",
+      "contentId": "1ZgH_3"
+    },
+    {
+      "title": "C언어를 배워보자 - 1. <b>Hello</b> <b>world</b> - 평범한 인문대 졸업 직장인의 프로그래밍 고군분투기",
+      "contentSummary": "언제든 바꿔도 되니까! 뭐 일단 그냥 적성에 맞는지 한 번 해보는 거니까! 도전!! 그리하여 C과정의 [1강. C의 역사와 <b>Hello</b> <b>World</b>]를 시작하게 된 것이다. *참고* 코드카데미에는 유료버전(고급과정이나 패스웨이 제공, 더 많은 예시를 풀어볼 수 있음)과...",
+      "contentId": "4qcc_103"
+    },
+    {
+      "title": "후쿠오카 1일 1 닭 여행기 - ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b>",
+      "contentSummary": "안녕, 이제 다시 방황의 연속이야 낯익지만 잘 모르는 경치 속에서 ♪Bump of &#39;chicken&#39; - <b>hello</b>, <b>world</b> &#34;모츠나베랑 명란 먹고 오세요~&#34; &#34;응응, 그래요오.&#34; 후쿠오카를 다녀온다 하니 주변에서 가장 많이 들었던 이야기다. 후쿠오카는 우리나라와 가깝고...",
+      "contentId": "7wMc_42"
+    },
+    {
+      "title": "올해 29살이 된 의외의 것들 1 - <b>Hello</b> <b>world</b>: 1990년, Html이 태어나다",
+      "contentSummary": "텍스트 체계를 제안하는 메모를 작성 했다. 1990년 10월 웹페이지 만드는 편집기 만들었으며 1990년 11월 웹브라우져인 <b>world</b> wide web 만들었다. 그리고 1990년 12월 24일 웹서버라는 프로그램을 만들기에 이른다. 그 프로그램이 설치되어 있는 컴퓨터에...",
+      "contentId": "5hsP_26"
+    },
+    {
+      "title": "[Python]기본을 배우는 Kee - <b>Hello</b> <b>World</b>",
+      "contentSummary": "10 문자열 문자, 단어 등으로 구성된 문자들의 집합(int == 정수형, str == 문자열) 문장에 &#34;&#34;,&#39;&#39;이 있을 때 사용법: print(&#34;<b>hello</b> &#39;kee&#39;&#34;) # 문장에 &#39;가 있으면 &#34;&#34;로 print(&#39;<b>hello</b> &#34;kee&#34;&#39;) # 문장에 &#34;가 있으면 &#39;&#39;으로 <b>hello</b> &#39;kee&#39; <b>hello</b> &#34;kee&#34; 사용법 2...",
+      "contentId": "2Lrj_6"
+    },
+    {
+      "title": "<b>Hello</b> <b>World</b>! - Estsoft 퓨처스1기 지원, 관심 있던 프로그래밍, 진짜 공부를 시작",
+      "contentSummary": "요즘 하루 종일 컴퓨터만 쳐다보고 있습니다. #include &lt;iostream&gt; using namespace std; int main() { int paused 하루를 이 녀석으로 시작해서 이 녀석으로 마무리하는 중이랍니다. 얼마 전 이스트소프트 퓨처스 1기에 지원해보자는 마음을 가지고...",
+      "contentId": "5hj_40"
+    },
+    {
+      "title": "오늘은 태어나서 좋은 날 - <b>Hello</b> <b>world</b>.",
+      "contentSummary": "몇 시간 전까지 생일이었다. 이번 생일은 내 생일 중 가장 일상에 충실한 하루를 보냈다. 이런 저런 일정때문에도 그랬지만, 결론은 예상대로 충분히 좋았다. 살면서 때로, 왜 이렇게 태어났을지 고민하고, 대상없이 원망했던 적도 있었지만, 태어났다는...",
+      "contentId": "aVs_45"
+    },
+    {
+      "title": "<b>Hello</b> <b>world</b>! - 하루의 일을 짧은 글로 남기다.",
+      "contentSummary": "한다. 이 브런치에서 얼마나 글을 남길 수 있을지는 모르지만 첫 걸음은 누구에게나 있지 않은가. 첫 술에 배부르지 말자. 모든 프로그래밍 교보에는 이 단어를 출력해보는 것을 연습해본다. 그런 의미로 나도 이 글의 제목을 짓게 되었다. &#39;<b>Hello</b> <b>World</b>...",
+      "contentId": "1geE_5"
+    }
+  ]
+}
